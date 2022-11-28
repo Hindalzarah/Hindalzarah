@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Hindalzarah
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Kotlin
-
+- 🥸 I have experience in Kotlin app development 
+- 🌱 I’m currently learning Swift
 
 <!---
 Hindalzarah/Hindalzarah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
